@@ -185,4 +185,4 @@ Due to the use of Geopandas, this version of the HMS-Commander script requires a
 
 ## Contact Information
 
-All inquiries should be directed to [heccommander@gmail.com](mailto:heccommander@gmail.com). For more information on the use of LLMs and AI for coding tasks, see the white paper "HEC-Commander: Command Line is All You Need."
+All inquiries should be directed to [heccommander@gmail.com](mailto:heccommander@gmail.com). 

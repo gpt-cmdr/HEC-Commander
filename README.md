@@ -7,7 +7,7 @@ HEC-Commander Tools is a suite of python notebooks developed with AI assistance 
 </p>
 
 ## Primary Author
-William Mark Katzenmeyer, P.E., C.F.M.
+[William Mark Katzenmeyer, P.E., C.F.M.](https://engineeringwithllms.info/index.html)
 
 ## Notable Contributors
 - [Sean Micek, P.E.](https://github.com/openSourcerer9000) - HMS-Commander Jython core logic, implementation of calibration regions. RAS-Commander infiltration HDF revision prototyping

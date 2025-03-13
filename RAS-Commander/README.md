@@ -1,5 +1,6 @@
-# RAS-Commander 1.1 (GUI Version)
+# RAS-Commander 1.1 (GUI Version) (Notebook Version)
 ## Jupyter Notebook Application for Parallel-Executing HEC-RAS Plans
+
 
 ---
 
@@ -8,6 +9,14 @@
 </p>
 
 ---
+
+> ❗ **DISAMBIGUATION:**  
+> If you are looking for the RAS-Commander Library, which is a more capable Python library and HEC-RAS automation API, check it out here: [RAS-Commander Library on Github](https://github.com/gpt-cmdr/ras-commander).
+>
+> ❗ **This page is dedicated to the RAS-Commander 1.1 Notebook,** which is the first implementation of the HEC-RAS automation approach that was later formalized as a full library, and is still the only notebook capable of executing multiple plans across locally networked machines.
+
+
+
 
 Changelog: 
 1.1: Bug fixes for minor operability issues, especially in Run Missing mode and when connected only to local machines.  Will no longer ask for a password when it's not necessary, or give warnings about missing folders that aren't being utilized. 

@@ -7,19 +7,21 @@ HEC-Commander Tools is a suite of python notebooks developed with AI assistance 
 </p>
 
 ## Primary Author
-William Mark Katzenmeyer, P.E., C.F.M.
+[William Mark Katzenmeyer, P.E., C.F.M.](https://engineeringwithllms.info/index.html)
 
 ## Notable Contributors
 - [Sean Micek, P.E.](https://github.com/openSourcerer9000) - HMS-Commander Jython core logic, implementation of calibration regions. RAS-Commander infiltration HDF revision prototyping
 - Tyler Young, E.I. - DSS-Commander calibration metrics, debugging, and testing of all tools.
 
-## [HMS-Commander](https://github.com/billk-FM/HEC-Commander/tree/main/HMS-Commander)
+## [HMS-Commander Notebooks](https://github.com/billk-FM/HEC-Commander/tree/main/HMS-Commander)
 Contains automation scripts for HEC-HMS that allow the generation of multiple DSS output files with user-defined calibration parameters. This tool was developed to support 1D HEC-RAS calibration and validation workflows using deficit and constant loss methods with optional recession baseflow, and employs a user-generated CSV file to input scale factors for each individual parameter. A second version of the script allows definition of multiple calibration regions, enabling spatial variability of scale factors.
 
-## [RAS-Commander](https://github.com/billk-FM/HEC-Commander/tree/main/RAS-Commander)
+## [RAS-Commander Notebook](https://github.com/billk-FM/HEC-Commander/tree/main/RAS-Commander)
 Includes a suite of HEC-RAS automation scripts that support the parallel execution of HEC-RAS unsteady plans, as well as construction of plan files utilizing multiple HEC-HMS inputs. Defines DSS output file names, generates batch scripts for headless execution, and manages the deployment and parallel execution of HEC-RAS runs on local and remote machines using peer-to-peer Windows network shares. These scripts are applicable for both 1D and 2D model formats, and now support overriding RASMapper infiltration override layers.
+> ❗ **DISAMBIGUATION:**  
+> If you are looking for the RAS-Commander Library, which is a more capable Python library and HEC-RAS automation API, check it out here: [RAS-Commander Library on Github](https://github.com/gpt-cmdr/ras-commander).
 
-## [DSS-Commander](https://github.com/billk-FM/HEC-Commander/tree/main/DSS-Commander)
+## [DSS-Commander Notebook](https://github.com/billk-FM/HEC-Commander/tree/main/DSS-Commander)
 Provides a script for plotting 1D HEC-RAS results from DSS against gauge results, creating zoomable HTML plots with Bokeh. It calculates calibration statistics (RMSE, r, PBIAS, NSE) for each plotted location and supports multiple gauges, as well as the plotting of multiple DSS results files for both Stage and Flow.
 
 *New* [GHNCD to DSS Precipitation Grid Comparison Tool](https://github.com/billk-FM/HEC-Commander/tree/main/DSS-Commander/GHNCD_Comparison_Tool)
@@ -34,7 +36,7 @@ Under each HMS, RAS, and DSS Commander folders are miscellaneous scripts and too
 ## [HEC-Commander Blog](https://github.com/billk-FM/HEC-Commander/tree/main/Blog)
 A collection of blogs and missives about AI, HEC-RAS and HMS scripting, and topics related to the tools in this repo [HEC-Commander Blog](./Blog/README.md) 
 
-## [ChatGPT Examples and GPT's](https://github.com/billk-FM/HEC-Commander/tree/main/ChatGPT%20Examples)
+## [ChatGPT Examples and GPT Assistants](https://github.com/billk-FM/HEC-Commander/tree/main/ChatGPT%20Examples)
 A collection of other useful GPT's and ChatGPT conversation examples to complement this repository can be found in the [ChatGPT Examples Folder](./ChatGPT%20Examples/README.md) 
 
 ## [ChatGPT Assistant for HEC-Commander Repository](https://chat.openai.com/g/g-xznmjo6qb-hec-commander-repository-assistant)

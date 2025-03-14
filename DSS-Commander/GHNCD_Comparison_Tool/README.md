@@ -3,11 +3,9 @@
 ## Introduction
 The GHNCD Precipitation Comparison Tool consists of two Jupyter Notebook scripts designed for analyzing and comparing precipitation data from the Global Historical Climatology Network Daily (GHNCD) with gridded precipitation data from PyDSS. This tool is particularly useful for hydrologists and environmental scientists looking to assess precipitation trends, validate data models, or conduct detailed hydrological studies.
 
-A full example with watershed shapefile and DSS input files can be found at the link below:
-[GHNCD_Precipitation_DSS_Comparison_Example.zip](https://chfenstermaker-my.sharepoint.com/:u:/g/personal/billk_fenstermaker_com/EeCDcSW6G1hJgc1PxnkqYOwBnu85HWsGaL8wuvZYgqq_tw?e=Tzgk3q) 
 
 <p align="center">
-  <img src="https://github.com/billk-FM/HEC-Commander/blob/main/ChatGPT%20Examples/data/wsdsa_logo.png" width="20%">
+  <img src="https://github.com/gpt-cmdr/HEC-Commander/blob/main/ChatGPT%20Examples/data/wsdsa_logo.png" width="20%">
 </p>
 
 
@@ -16,7 +14,7 @@ Also, a custom GPT has been created to accompany these scripts to help users wit
 
 
 ChatGPT Link: [Weather Station Daily Summary Assistant](https://chat.openai.com/g/g-vzcXviTtz-weather-station-daily-summary-assistant)
-[Weather Station Daily Summary Assistant - Documentation and Instructions](https://github.com/billk-FM/HEC-Commander/blob/main/ChatGPT%20Examples/16_Weather_Station_Daily_Summary_Assistant.md)
+[Weather Station Daily Summary Assistant - Documentation and Instructions](https://github.com/gpt-cmdr/HEC-Commander/blob/main/ChatGPT%20Examples/16_Weather_Station_Daily_Summary_Assistant.md)
 
 ## Requirements
 To run these scripts, you will need a Python environment with specific libraries installed. The primary requirements are Jupyter Notebook, Pandas for data manipulation, Geopandas for spatial data operations, Matplotlib for plotting, and additional libraries for handling geospatial data and performing numerical operations.

@@ -11,7 +11,8 @@ Since the typical Ineffective flow area at a overtopping structure needs to be n
 
 **[Folder_Submittal_File_Length_Check.ipynb](./Folder_Submittal_File_Length_Check.ipynb)**
 Checks a submittal folder and reports the longest file path and remaining allowable file path characters for an NTFS file system
-Author: William Katzenmeyer, P.E.., C.H. Fenstermaker and Associates, L.L.C.
+Author: [William Katzenmeyer, P.E., C.F.M.](https://engineeringwithllms.info])
+]
 
 
 **[2D_Mannings_Region_Tables_to_CSV.ipynb](./2D_Mannings_Region_Tables_to_CSV.ipynb)**

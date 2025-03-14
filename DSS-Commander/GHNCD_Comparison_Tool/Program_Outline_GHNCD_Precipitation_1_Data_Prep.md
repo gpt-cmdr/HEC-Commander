@@ -1,4 +1,4 @@
-Created with [Script Translator: Outline in Plain Language](https://github.com/billk-FM/HEC-Commander/blob/main/ChatGPT%20Examples/08_Script_Translator_-_Outline_in_Plain_Language.md)
+Created with [Script Translator: Outline in Plain Language](https://github.com/gpt-cmdr/HEC-Commander/blob/main/ChatGPT%20Examples/08_Script_Translator_-_Outline_in_Plain_Language.md)
 
 For more detailed summaries of specific code cells or segments, use the GPT above (free version available) to re-summarize
 

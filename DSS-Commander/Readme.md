@@ -2,6 +2,7 @@
  <img src="../misc/DSS-Commander.png" width="300">
 </p>
 
+Author: [William (Bill) Katzenmeyer, P.E., C.F.M.](https://engineeringwithllms.info)
 
 # DSS-Commander
 

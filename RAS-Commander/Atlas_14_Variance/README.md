@@ -118,7 +118,7 @@ Explanation:
 
 ## Authors
 
-William (Bill) Katzenmeyer, P.E., C.F.M. (C.H. Fenstermaker and Associates, LLC)
+William (Bill) Katzenmeyer, P.E., C.F.M. 
 
 
 ## Example Outputs

@@ -1,14 +1,14 @@
 # Terrain Modification Profile Generator
 
-Author: William Katzenmeyer, P.E., C.F.M.
+Author: [William (Bill) Katzenmeyer, P.E., C.F.M.](https://engineeringwithllms.info)
 
 
 <p align="center">
-  <img src="https://github.com/billk-FM/HEC-Commander/blob/main/RAS-Commander/img/Terrain_Profiler_Logo.png" width="30%">
+  <img src="https://github.com/gpt-cmdr/HEC-Commander/blob/main/RAS-Commander/img/Terrain_Profiler_Logo.png" width="30%">
 </p>
 
 
-**[Link to Notebook](https://github.com/billk-FM/HEC-Commander/blob/main/RAS-Commander/Terrain_Mod_Profiler/Terrain_Mod_Profile_Generator.ipynb)**
+**[Link to Notebook](https://github.com/gpt-cmdr/HEC-Commander/blob/main/RAS-Commander/Terrain_Mod_Profiler/Terrain_Mod_Profile_Generator.ipynb)**
 
 # Terrain Modification Profile Generator
 
@@ -41,7 +41,7 @@ LiDAR-derived channels in HEC-RAS can have noisy or flat-bottom profiles, leadin
 - **Projection_File_Path:** Projection file for HEC-RAS RASMapper.
   
 <p align="center">
-  <img src="https://github.com/billk-FM/HEC-Commander/blob/main/RAS-Commander/img/Terrain_Profiler_1.png" width="50%">
+  <img src="https://github.com/gpt-cmdr/HEC-Commander/blob/main/RAS-Commander/img/Terrain_Profiler_1.png" width="50%">
 </p>
 
 
@@ -78,7 +78,7 @@ You must specify the paths to your terrain modifications and terrain TIFF files:
 The script generates a CSV file containing a profile for each terrain modification polyline. 
 
 <p align="center">
-  <img src="https://github.com/billk-FM/HEC-Commander/blob/main/RAS-Commander/img/Terrain_Profiler_2.png" width="75%">
+  <img src="https://github.com/gpt-cmdr/HEC-Commander/blob/main/RAS-Commander/img/Terrain_Profiler_2.png" width="75%">
 </p>
 
 Example of output format:

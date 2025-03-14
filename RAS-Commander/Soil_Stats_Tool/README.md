@@ -4,6 +4,7 @@
   <img src="sst_logo.png" width="300">
 </p>
 
+Author: [William (Bill) Katzenmeyer, P.E., C.F.M.](https://engineeringwithllms.info)
 
 ## Overview
 The "Soil Stats Tool for RASMapper" is a Python-based Jupyter Notebook designed to extend the capabilities of HEC-RAS's RASMapper by calculating detailed soil statistics for a specified watershed boundary. This tool is particularly useful in watershed and environmental studies where soil data analysis is essential. It processes geospatial data, including shapefiles and raster images, to provide insightful soil statistics.

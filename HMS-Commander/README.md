@@ -4,9 +4,11 @@
 
 # HMS-Commander
 
+Author: [William (Bill) Katzenmeyer, P.E., C.F.M.](https://engineeringwithllms.info)
+
 HMS-Commander is a python Notebooks for automating HEC-HMS Hydrologic Modeling System workflows, initially developed for LWI Region 4. The provided scripts automate calibration workflows for HEC-HMS models utilizing deficit and constant loss methods, clark unit hydrograph and recession baseflow methods. 
 
-*[Quick Start Guide in PDF Format with screenshots:](https://github.com/billk-FM/HEC-Commander/blob/main/HMS-Commander/Quick%20Start%20Guide%20for%20HMS-Commander.pdf)*
+*[Quick Start Guide in PDF Format with screenshots:](https://github.com/gpt-cmdr/HEC-Commander/blob/main/HMS-Commander/Quick%20Start%20Guide%20for%20HMS-Commander.pdf)*
 
 ## Scripts
 
@@ -45,7 +47,7 @@ This script performs the following steps:
 
 ### Quick Start Guide for HEC-Commander
 
-[Quick Start Guide in PDF Format with screenshots:](https://github.com/billk-FM/HEC-Commander/blob/main/Quick%20Start%20Guide%20for%20HEC-Commander.pdf)
+[Quick Start Guide in PDF Format with screenshots:](https://github.com/gpt-cmdr/HEC-Commander/blob/main/Quick%20Start%20Guide%20for%20HEC-Commander.pdf)
 
 **You must ensure that Jython is installed to the default location**: C:\jython2.7.3\
 

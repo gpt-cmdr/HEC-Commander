@@ -1,6 +1,12 @@
 # HEC-Commander Tools
 
-HEC-Commander Tools is a suite of python notebooks developed with AI assistance for water resource engineering workflows, primarily focused on providing automation for HEC-RAS and HEC-HMS through Jupyter Notebooks. Additionally, this repository contains blog posts and ChatGPT assistants relevant to H&H modeling, automation and the use of LLM's for water resources workflows.
+HEC-Commander Tools is a suite of python notebooks developed with AI assistance for water resource engineering workflows, primarily focused on providing automation for HEC-RAS and HEC-HMS through Jupyter Notebooks. Additionally, this repository contains blog posts and archived ChatGPT examples relevant to H&H modeling, automation and the use of LLM's for water resources workflows.
+
+> **📢 Important: Modern Alternatives Available**
+>
+> The functionality provided by the HEC-Commander notebooks and the previously-available custom GPTs has been superseded by the **[ras-commander](https://github.com/gpt-cmdr/ras-commander)** and **[hms-commander](https://github.com/gpt-cmdr/hms-commander)** Python libraries, which provide full agentic operation on your local machine. For AI-assisted workflows, we recommend using local agent interfaces such as **[Claude Code](https://docs.anthropic.com/en/docs/claude-code)** or **[Codex](https://openai.com/index/codex/)** paired with these libraries, rather than web-based GPTs.
+>
+> All custom GPTs previously hosted on this repository have been **deprecated and removed**. The ChatGPT Examples folder is retained as an archive for reference only.
 
 <p align="center">
   <img src="misc/heccommanderupdatedlogo.png" width=30%>
@@ -36,11 +42,11 @@ Under each HMS, RAS, and DSS Commander folders are miscellaneous scripts and too
 ## [HEC-Commander Blog](https://github.com/billk-FM/HEC-Commander/tree/main/Blog)
 A collection of blogs and missives about AI, HEC-RAS and HMS scripting, and topics related to the tools in this repo [HEC-Commander Blog](./Blog/README.md) 
 
-## [ChatGPT Examples and GPT Assistants](https://github.com/billk-FM/HEC-Commander/tree/main/ChatGPT%20Examples)
-A collection of other useful GPT's and ChatGPT conversation examples to complement this repository can be found in the [ChatGPT Examples Folder](./ChatGPT%20Examples/README.md) 
+## [ChatGPT Examples (Archived)](https://github.com/billk-FM/HEC-Commander/tree/main/ChatGPT%20Examples)
+A collection of archived ChatGPT conversation examples and previously-available GPT documentation can be found in the [ChatGPT Examples Folder](./ChatGPT%20Examples/README.md). **All custom GPTs have been deprecated.** For AI-assisted water resources workflows, use local agent interfaces (Claude Code, Codex) with the [ras-commander](https://github.com/gpt-cmdr/ras-commander) and [hms-commander](https://github.com/gpt-cmdr/hms-commander) libraries instead.
 
-## [ChatGPT Assistant for HEC-Commander Repository](https://chat.openai.com/g/g-xznmjo6qb-hec-commander-repository-assistant)
-[HEC-Commander Repository Assistant](./ChatGPT%20Examples/10_HEC-Commander_Repository_Assistant.md) | [GPT Link](https://chat.openai.com/g/g-xznmjo6qb-hec-commander-repository-assistant) has access to a compiled version of the documentation in its Knowledge Base, as well as a zip file containing all of the content in the repo for retrieval  This GPT can be used to learn about the scripts, ask for instructions to help you debug any errors, as well as provide coding assistance for revising scripts for your use:
+## ~~ChatGPT Assistant for HEC-Commander Repository~~ (Deprecated)
+~~[GPT Link](https://chat.openai.com/g/g-xznmjo6qb-hec-commander-repository-assistant)~~ — This GPT has been deprecated and removed. For repository assistance, use a local AI agent (Claude Code, Codex) pointed at this repository or the [ras-commander](https://github.com/gpt-cmdr/ras-commander) / [hms-commander](https://github.com/gpt-cmdr/hms-commander) libraries.
 
 ## HEC-Commander Tools and AI-Assisted Scripting Presentations
 The HEC-Commander tools and AI-assisted scripting were presented at Association of State Flooplain Managers (ASFPM) Annual Conference in Salt Lake City on June 27, 2024.*  Check out a [PDF of the presentation!](https://github.com/billk-FM/HEC-Commander/blob/main/misc/Leveraging%20AI-Assisted%20Scripting%20for%20HEC-RAS%20and%20HEC-HMS%20Automation%202024-06-27%20ASFPM%20Presentation%20.pdf)

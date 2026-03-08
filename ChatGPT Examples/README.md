@@ -1,11 +1,23 @@
-# GPT's and ChatGPT Examples for Water Resources Engineers
+# GPT's and ChatGPT Examples for Water Resources Engineers (Archived)
+
+> **⚠️ DEPRECATION NOTICE**
+>
+> **All custom GPTs listed below have been deprecated and removed.** The GPT links are no longer active.
+>
+> The functionality previously provided by these GPTs is now available through modern, more capable alternatives:
+> - **[ras-commander](https://github.com/gpt-cmdr/ras-commander)** — Python library for HEC-RAS automation with full agentic operation
+> - **[hms-commander](https://github.com/gpt-cmdr/hms-commander)** — Python library for HEC-HMS automation with full agentic operation
+> - **[Claude Code](https://docs.anthropic.com/en/docs/claude-code)** — Local AI agent interface by Anthropic
+> - **[Codex](https://openai.com/index/codex/)** — Local AI agent interface by OpenAI
+>
+> These local agent interfaces paired with the ras-commander and hms-commander libraries provide all of the functionality of the custom GPTs with full agentic operation supported on your local machine.
 
 ## README Overview
-This repository is a collection of specialized GPTs designed for Water Resources Engineers. Each GPT offers unique functionalities and knowledge bases, ranging from document compilation and flood damage estimation to GIS assistance and script translation. These tools are intended to enhance productivity and understanding in various water resource management and engineering tasks, as well as productivity and GPT building tools.
+This folder is an **archive** of specialized GPTs that were previously designed for Water Resources Engineers. Each GPT offered unique functionalities and knowledge bases, ranging from document compilation and flood damage estimation to GIS assistance and script translation. **These GPTs have been deprecated in favor of local agent interfaces and the ras-commander / hms-commander libraries.**
 
-# Table of GPT's and ChatGPT Examples:
+# Table of GPT's and ChatGPT Examples (Archived — GPT Links No Longer Active):
 
-| Logo | Number | Name | Description | Read More Link | GPT Link |
+| Logo | Number | Name | Description | Read More Link | GPT Link (Deprecated) |
 |------|--------|------|-------------|----------------|----------|
 | <img src="./data/llmaa.png" width="300"> | 29 | LLM API Library Assistant | The LLM API Library Assistant provides tools for interfacing with various large language model APIs. It helps users integrate LLM functionalities into their applications, facilitating tasks such as text generation, summarization, and sentiment analysis. | [Read More](./29_LLM_API_Library_Assistant.md) | [GPT Link](https://chatgpt.com/g/g-5PxwJUJLv-llm-api-python-library-assistant) |
 | <img src="./data/usgsaa.png" width="300"> | 28 | USGS API Assistant | This assistant interfaces with various USGS APIs to retrieve and analyze hydrological and geological data. It simplifies accessing datasets such as streamflow records, water quality measurements, and topographic information. | [Read More](./28_USGS_API_Assistant.md) | [GPT Link](https://chatgpt.com/g/g-1R7TUBCwp-usgs-api-assistant) |
